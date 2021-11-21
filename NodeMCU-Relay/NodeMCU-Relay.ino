@@ -12,7 +12,7 @@
 /////////////////// CHANGE THESE VALUES //////////////////////
 // Required:
 const char* ssid = "LeON2.4"; // Name of your network
-const char* password = "C2xiszzu"; // Password for your network
+const char* password = "Password"; // Password for your network
 const String relay = "HIGH"; // Relay type (`HIGH` or `LOW`)
 
 // For Modulation:
